@@ -29,6 +29,25 @@ HTML5 - CSS3 - SASS - Javascript - Typescript - ReactJS - VueJS
 
 PHP - Laravel - NodeJS - NextJS - NestJS - Rails
 
+## 🌐 Let's connect
+
+If you are:
+
+- Looking for a skilled developer;
+- Want to expand your network;
+- Would like to chat about techology.
+
+Then, please, feel free to get in touch through any of the following 😄:
+
+<p align="left">
+  <a href="mailto:maria.porcina.mp@gmail.com" title="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/mariaporcina/" title="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/_porccina/" title="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
+
 <!--
 ## Skills
 
