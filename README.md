@@ -29,6 +29,41 @@ HTML5 - CSS3 - SASS - Javascript - Typescript - ReactJS - VueJS
 
 PHP - Laravel - NodeJS - NextJS - NestJS - Rails
 
+## Experiences
+<!--
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+-->
+
+**Front End Developer (Mid)** \
+**The Brooklyn Brothers** • Full-time \
+Main Techs: `ReactJS`, `Typescript`, `SASS`, `GIT`, `CI/CD`
+<br/>
+
+
+**Technical Trainer** \
+**OSF Digital** • Full-time \
+Main Techs: `ReactJS`, `Typescript`, `SASS`, `HTML5/CSS3`, `NodeJS`
+<br/>
+
+
+**Programming Instructor** \
+**Kenzie Academy Brasil** • Full-time \
+Main Techs: `HTML5/CSS3`, `Javascript`, `GIT`, `ReactJS`, `NodeJS`
+<br/>
+
+**Front End Developer (Jr)** \
+**Handgran** • Contract \
+Main Techs: `HTML5/CSS3`, `Javascript`, `GIT`, `PHP`, `Wordpress`
+<br/>
+<br/>
+
+<!--
+## Projects
+
+<====== INSERT PROJECTS ======>
+
+-->
+
 ## 🌐 Let's connect
 
 If you are:
